@@ -94,8 +94,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>canales lucha</title>
+<title>Estopa Como Camarón </title>
 <urlsolve>https://www.youtube.com/watch?v=4wUNJQeQ-og&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-&index=4</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Estopa Remix</title>
+<urlsolve>https://www.youtube.com/watch?v=JmP89cIGJZM&list=PLF30B055AD68B835D</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
