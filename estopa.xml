@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>
 <title>[COLOR lime]Estopa[/COLOR] </title>
 <link>$doregex[makelist2]</link>
@@ -92,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>youtube normal</title>
+<title>canales lucha</title>
 <urlsolve>https://www.youtube.com/watch?v=u13fKZAlovg&t=2s</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
