@@ -145,9 +145,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
-<title>Estopa Remix</title>
-<urlsolve></urlsolve>
+<title>Atleti vs R.madrid</title>
+<urlsolve>https://www.youtube.com/watch?v=GQ3Nk3Ph9yY</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -155,7 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Estopa Remix</title>
+<title></title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
