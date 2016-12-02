@@ -156,8 +156,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
+<title>UFC LAS MEJORES PELEAS</title>
+<urlsolve>https://www.youtube.com/watch?v=NDFP5c5x-ac</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>BARCELONA VS REAL MADRID 2010</title>
+<urlsolve>https://www.youtube.com/watch?v=jIaeR9QmtS0</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -166,8 +178,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Estopa Remix</title>
-<urlsolve></urlsolve>
+<title>REAL MADRID VS BARCELONA 2015</title>
+<urlsolve>https://www.youtube.com/watch?v=DCjat1mW0ro</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -175,8 +187,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Estopa Remix</title>
-<urlsolve></urlsolve>
+<title>REAL MADRID VS BARCELONA 2009</title>
+<urlsolve>https://www.youtube.com/watch?v=I6vM1Ydb0R8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -184,12 +196,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Estopa Remix</title>
-<urlsolve></urlsolve>
+<title>canciones de navidad</title>
+<urlsolve>https://www.youtube.com/watch?v=PHHG3Ejg3qI</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-
-
 
