@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]Estopa[/COLOR] </title>
+<title>[COLOR lime]JHG 2017[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -93,71 +93,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>Estopa Como Camarón </title>
-<urlsolve>https://www.youtube.com/watch?v=4wUNJQeQ-og&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-&index=4</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
-<title>Estopa Raja de tu Falda</title>
-<urlsolve>https://www.youtube.com/watch?v=wECwsE4yNSQ&index=2&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Estopa Malabares</title>
-<urlsolve>https://www.youtube.com/watch?v=VSvUlNtuAIk&index=17&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>Estopa Run run</title>
-<urlsolve>https://www.youtube.com/watch?v=tZs4eDy9JY8&index=22&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>Estopa Me Quedaré</title>
-<urlsolve>https://www.youtube.com/watch?v=coOK4lMmJI0&index=24&list=PLtsNaC2vIm4IydedefqxyiG29Z1w4iwR-</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>Sin Nombre</title>
-<urlsolve>https://www.youtube.com/watch?v=7QhBI6-IHpY</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title>Los Simpsons 24h</title>
-<urlsolve>https://www.youtube.com/watch?v=_JPR4Rxm95s</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title></title>
-<urlsolve></urlsolve>
+<title>Especial Peppa Pig</title>
+<urlsolve>https://www.youtube.com/watch?v=Jg2Py8xK_i8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -168,8 +108,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
+<title>Canta juegos</title>
+<urlsolve>https://www.youtube.com/watch?v=GjeTkWJ3arc</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
