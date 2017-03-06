@@ -118,8 +118,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> </title>
-<urlsolve></urlsolve>
+<title> La Patrulla Canina</title>
+<urlsolve>https://www.youtube.com/watch?v=PV1F4ka-9aE</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -136,8 +136,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>canciones de navidad</title>
-<urlsolve>https://www.youtube.com/watch?v=PHHG3Ejg3qI</urlsolve>
+<title></title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
