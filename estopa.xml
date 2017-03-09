@@ -127,8 +127,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
+<title>Peppa Pig</title>
+<urlsolve>https://www.youtube.com/watch?v=E_OXG43IEO8&spfreload=10</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
