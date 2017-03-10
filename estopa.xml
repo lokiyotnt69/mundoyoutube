@@ -95,6 +95,40 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+<item>
+<title>Catoal kodi Paso a paso</title>
+<urlsolve>https://www.youtube.com/watch?v=pN0mfm0ZDjQ</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>kodi y aCesTream</title>
+<urlsolve>https://www.youtube.com/watch?v=GInGU6WqWUE</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
 <item>
 <title>Especial Peppa Pig</title>
 <urlsolve>https://www.youtube.com/watch?v=Jg2Py8xK_i8</urlsolve>
@@ -127,18 +161,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Peppa Pig</title>
-<urlsolve>https://www.youtube.com/watch?v=E_OXG43IEO8&spfreload=10</urlsolve>
+<title></title>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 
-
-<item>
-<title>Catoal kodi Paso a paso</title>
-<urlsolve>https://www.youtube.com/watch?v=pN0mfm0ZDjQ</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
