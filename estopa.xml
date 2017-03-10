@@ -96,6 +96,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>Como Borrar Caché y Datos!</title>
+<urlsolve>https://www.youtube.com/watch?v=Wk6V_UeMG6Q&spfreload=10</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
@@ -118,11 +124,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
+<title> </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
 
 
 
