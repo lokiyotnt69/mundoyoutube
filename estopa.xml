@@ -105,6 +105,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title> Configurar Acestream </title>
+<urlsolve>https://www.youtube.com/watch?v=XQibskvxw5Y</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
 <item>
 <title>Catoal kodi Paso a paso</title>
 <urlsolve>https://www.youtube.com/watch?v=pN0mfm0ZDjQ</urlsolve>
@@ -115,13 +126,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title> </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
