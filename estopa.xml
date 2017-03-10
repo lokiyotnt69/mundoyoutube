@@ -114,14 +114,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow] Cambiar Skin de  kodi 17 al kodi16 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.youtube.com/watch?v=t1bqKH6ycCY</thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
 
 
 <item>
@@ -143,35 +135,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title>Especial Peppa Pig</title>
-<urlsolve>https://www.youtube.com/watch?v=Jg2Py8xK_i8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>Canta juegos</title>
-<urlsolve>https://www.youtube.com/watch?v=GjeTkWJ3arc</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title> Caillou</title>
-<urlsolve>https://www.youtube.com/watch?v=SX2UWE2IHW8</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
