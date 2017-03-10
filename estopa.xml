@@ -115,10 +115,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>kodi y aCesTream</title>
-<urlsolve>https://www.youtube.com/watch?v=GInGU6WqWUE</urlsolve>
-<thumbnail></thumbnail>
+<title>[COLOR yellow] Cambiar Skin de  kodi 17 al kodi16 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.youtube.com/watch?v=t1bqKH6ycCY</thumbnail>
 <fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
@@ -132,6 +133,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title> </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
