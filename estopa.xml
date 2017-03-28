@@ -109,10 +109,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Como Borrar Caché y Datos</title>
-<urlsolve>https://www.youtube.com/watch?v=Wk6V_UeMG6Q&spfreload=10</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title> DELIA 1.0 </title>
+<urlsolve>----AQUI EL LINK DE YOUTUBE----</urlsolve>
+<thumbnail>---fondo---</thumbnail>
+<fanart>---foto---</fanart>
 </item>
 
 
@@ -142,6 +142,52 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+<item>
+<title> </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title> </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title> </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title> </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
