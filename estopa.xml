@@ -109,34 +109,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> DELIA 1.0 </title>
-<urlsolve>----AQUI EL LINK DE YOUTUBE----</urlsolve>
-<thumbnail>---fondo---</thumbnail>
-<fanart>---foto---</fanart>
-</item>
-
-
-
-
-<item>
-<title> Configurar Acestream </title>
-<urlsolve>https://www.youtube.com/watch?v=XQibskvxw5Y</urlsolve>
-<thumbnail></thumbnail>
+<title> FULBODY CARDIO</urlsolve>
+<thumbnail>https://www.youtube.com/watch?v=GjaNoV6NJNs&feature=youtu.be</thumbnail>
 <fanart></fanart>
 </item>
 
 
 
 
-
-
-
-
-
-
 <item>
-<title> </title>
-<urlsolve></urlsolve>
+<title> AUMENTAR GLUTEOS </title>
+<urlsolve>https://www.youtube.com/watch?v=BhNoJrYZSkA&feature=youtu.be</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -145,8 +128,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> </title>
-<urlsolve></urlsolve>
+<title> FAMILIA EN FORMA</title>
+<urlsolve>https://www.youtube.com/watch?v=c7FCeEt4ns0&feature=youtu.be</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -154,8 +137,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> </title>
-<urlsolve></urlsolve>
+<title> CLASE 1.0</title>
+<urlsolve>https://www.youtube.com/watch?v=IPNbBXR8EA0&feature=youtu.be</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -163,8 +146,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title> </title>
-<urlsolve></urlsolve>
+<title> 1H FITNESS</title>
+<urlsolve>https://www.youtube.com/watch?v=62GknVgwVBg&feature=youtu.be</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title> CLASES 2.0</title>
+<urlsolve>https://www.youtube.com/watch?v=KxfcndYWRx4&feature=youtu.be</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
