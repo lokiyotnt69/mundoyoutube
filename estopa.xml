@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]JHG 2017[/COLOR] </title>
+<title>[COLOR lime]ZUMBA Y FITNESS DEDICADO A DELIA[/COLOR] </title>
 <link>$doregex[makelist2]</link>
 
 
@@ -153,7 +153,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
 <item>
 <title> CLASES 2.0</title>
 <urlsolve>https://www.youtube.com/watch?v=KxfcndYWRx4&feature=youtu.be</urlsolve>
@@ -162,9 +161,42 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title> DESPACITO</title>
+<urlsolve>https://www.youtube.com/watch?v=CvlivhBT0a0&feature=youtu.be</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 <item>
-<title> </title>
+<title>SUBEME LA RADIO</title>
+<urlsolve>https://www.youtube.com/watch?v=54CkG4PSv-w&feature=youtu.be</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title></title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -183,6 +215,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
