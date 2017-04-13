@@ -231,6 +231,51 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>El Perdon - Enrique Iglesias - Nicky Jam</title>
+<urlsolve>https://www.youtube.com/watch?v=6puGUccszGg&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+<item>
+<title>Chayanne zumba</title>
+<urlsolve>https://www.youtube.com/watch?v=tQgYFoBoGzM&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>TRABAJO AERÓBICO 1 Y 2 </title>
+<urlsolve>https://www.youtube.com/watch?v=ktWyiwJcsoo&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+<item>
+<title> Power Step 3</title>
+<urlsolve>https://www.youtube.com/watch?v=H_FG_U3H3FI</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>Aulas de Zumba Para Iniciantes </title>
+<urlsolve>https://www.youtube.com/watch?v=c708w07r86s</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+<item>
 <title></title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
@@ -247,6 +292,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -281,7 +349,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 
 
 
