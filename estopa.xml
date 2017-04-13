@@ -178,10 +178,55 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>CARDIO SUPER INTENSO 50 MINUTOS</title>
+<urlsolve>https://www.youtube.com/watch?v=kVr3wVg1WKM</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+<item>
+<title>ZUMBA</title>
+<urlsolve>https://www.youtube.com/watch?v=BHsahJd8K4E&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+<item>
+<title>MUSICA PARA ZUMBA FITNESS </title>
+<urlsolve>https://www.youtube.com/watch?v=M7tL67W7SfE&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>Sesión Full Combat</title>
+<urlsolve>https://www.youtube.com/watch?v=Q_fqVrrSKao</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>Cuadriceps y Combat</title>
+<urlsolve>https://www.youtube.com/watch?v=FlfwT_5X7dc</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>ZUMBA BAILABLE </title>
+<urlsolve>https://www.youtube.com/watch?v=AcjXOMZXxLw</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
@@ -236,6 +281,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
 
 
 
