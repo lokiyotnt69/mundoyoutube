@@ -103,16 +103,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
 <item>
-<title> FULBODY CARDIO</urlsolve>
-<thumbnail>https://www.youtube.com/watch?v=GjaNoV6NJNs&feature=youtu.be</thumbnail>
-<fanart></fanart>
+<title></title>
+<urlsolve>https://www.youtube.com/watch?v=GjaNoV6NJNs&feature=youtu.be</urlsolve>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
+
+
 
 
 
@@ -120,8 +118,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title> AUMENTAR GLUTEOS </title>
 <urlsolve>https://www.youtube.com/watch?v=BhNoJrYZSkA&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
@@ -130,8 +128,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title> FAMILIA EN FORMA</title>
 <urlsolve>https://www.youtube.com/watch?v=c7FCeEt4ns0&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
@@ -139,8 +137,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title> CLASE 1.0</title>
 <urlsolve>https://www.youtube.com/watch?v=IPNbBXR8EA0&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
@@ -148,24 +146,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title> 1H FITNESS</title>
 <urlsolve>https://www.youtube.com/watch?v=62GknVgwVBg&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
 <item>
 <title> CLASES 2.0</title>
 <urlsolve>https://www.youtube.com/watch?v=KxfcndYWRx4&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
 <item>
 <title> DESPACITO</title>
 <urlsolve>https://www.youtube.com/watch?v=CvlivhBT0a0&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
@@ -173,8 +171,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>SUBEME LA RADIO</title>
 <urlsolve>https://www.youtube.com/watch?v=54CkG4PSv-w&feature=youtu.be</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 </item>
 
 
